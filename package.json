@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/McAmy2001/Where-Were-You-When.git"
+    "url": "git+https://github.com/kaylab78/Where-Were-You-When.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/McAmy2001/Where-Were-You-When/issues"
+    "url": "https://github.com/kaylab78/Where-Were-You-When/issues"
   },
-  "homepage": "https://github.com/McAmy2001/Where-Were-You-When#readme",
+  "homepage": "https://github.com/kaylab78/Where-Were-You-When#readme",
   "devDependencies": {
     "concurrently": "^7.4.0"
   }
