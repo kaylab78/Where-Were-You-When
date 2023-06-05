@@ -25,6 +25,8 @@ To clone the repository, type `git clone git@github.com:McAmy2001/Where-Were-You
 
 Once the repository is cloned, use `npm i` to install the required packages. Use `npm run seed` to seed the database.
 
+If you have trouble opening the app, check to make sure that the cluster in MogoDB Atlas is running. If it is and you're still having trouble, redeploy the app to Heroku with `git push heroku main`. You may have to log into the Heroku CLI first using `heroku login`. You will be prompted to log in through your browser.
+
 ## Usage
 
 When the user visits the app for the first time, they can view a list of historical events that happened on the current date and can click the link to learn more.
